@@ -1,5 +1,4 @@
 # greynoise_spring4shell.txt
-# https://viz.greynoise.io/tags/spring-core-rce-attempt
 38.110.228.166
 211.47.140.238
 142.171.249.21
