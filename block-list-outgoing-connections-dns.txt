@@ -1,4 +1,4 @@
-# renejorissen-log4j_callback_dns.txt
+# rjn-log4j_callback_dns.txt
 e2216d7a9a31.bingsearchlib.com
 612877d3a59b.bingsearchlib.com
 ab3419ba1f45.bingsearchlib.com
